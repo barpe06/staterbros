@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Emc.Documentum.DFS</id>
+    <version>7.2.0.36</version>
+    <title>Emc Documentum DFS</title>
+    <authors>Ricardo Falcades</authors>
+    <owners>Ricardo Falcades</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET client for EMC Documentum Foundation Services</description>
+    <summary />
+  </metadata>
+</package>
